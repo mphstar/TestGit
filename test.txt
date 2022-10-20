@@ -4,8 +4,5 @@ update file
 
 aaaaab
 
-<<<<<<< HEAD
 mphstar
-=======
 aaadwadwadwada
->>>>>>> 7f4d519 (aaa)
